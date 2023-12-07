@@ -4,3 +4,14 @@
   File: styles.css
 */
 
+header {
+    background-color: rgb(243, 229, 182);
+    height: 150px;
+}
+
+.Elements {
+    display: block;
+    height: 100px;
+    width: 100px;
+    margin: auto auto auto 25px;
+}
