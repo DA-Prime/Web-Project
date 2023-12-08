@@ -9,6 +9,11 @@ header {
     height: 150px;
 }
 
+header h1 {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
 .Elements {
     display: block;
     height: 100px;
@@ -34,6 +39,6 @@ footer {
 }
 
 footer p {
-    text-aligned: center;
-    
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
 }
