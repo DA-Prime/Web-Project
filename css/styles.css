@@ -9,18 +9,18 @@ header {
     height: 150px;
 }
 
-h1 {
-    display: block;
-    text-align: center;
-    font-family: "Times New Roman", Times, serif;
-    margin: auto;
-}
-
 .Elements {
     display: block;
     height: 100px;
     width: 25%;
     margin: auto auto auto 25px;
+}
+
+h1 {
+    display: inline-block;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    margin: auto;
 }
 
 #description {
