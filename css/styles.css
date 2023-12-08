@@ -39,7 +39,7 @@ h1 {
 
 main {
     background-color: #ffffff;
-    height: 800px;
+    height: 600px;
     padding: 100px;
 }
 
@@ -48,9 +48,9 @@ main {
     background-color: rgb(255, 239, 161);
     border: 3px soild black;
     margin: auto;
-    padding: 175px 125px;
+    padding: 100px 150px;
     width: 75%;
-    height: 600px;
+    height: 400px;
 }
 
 h2, .text {
