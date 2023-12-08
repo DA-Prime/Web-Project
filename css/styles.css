@@ -10,7 +10,7 @@ header {
 }
 
 .Elements {
-    display: block;
+    display: inline-block;
     height: 100px;
     width: 25%;
 }
