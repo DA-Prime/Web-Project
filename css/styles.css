@@ -41,6 +41,13 @@ main {
     display: block;
     background-color: rgb(255, 239, 161);
     border: 3px soild black;
+    width: 75%;
+    height: 350px;
+}
+
+h2, #Powers p {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
 }
 
 #Avatar-state {
