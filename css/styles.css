@@ -16,10 +16,9 @@ header {
 }
 
 h1 {
-    display: block;
-    text-align: center;
+    display: inline-block;
+    text-align: right;
     font-family: "Times New Roman", Times, serif;
-    margin: auto;
 }
 
 #description {
