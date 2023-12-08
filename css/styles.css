@@ -11,13 +11,15 @@ header {
 
 .Elements {
     display: block;
+    float: left;
     height: 100px;
     width: 25%;
+    margin: 25px auto 25px;
 }
 
 h1 {
-    display: block;
-    text-align: right;
+    display: inline-block;
+    text-align: center;
     font-family: "Times New Roman", Times, serif;
 }
 
@@ -34,14 +36,14 @@ h1 {
 
 main {
     background-color: #ffffff;
-    height: 1000px;
+    height: 900px;
 }
 
 #Power {
     display: block;
     background-color: rgb(255, 239, 161);
     border: 3px soild black;
-    margin: 150px auto 150px;
+    margin: 100px auto 100px;
     padding: 100px;
     width: 75%;
     height: 700px;
@@ -54,14 +56,15 @@ h2, .text {
 
 img {
     display: block;
-    width: 100px;
-    height: 100px;
+    margin: 25px auto 25px;
+    width: 150px;
+    height: 150px;
 }
 
 footer {
     display: block;
     background-color: rgb(255, 0, 0);
-    height: 200px;
+    height: 300px;
     padding: 50px;
 }
 
