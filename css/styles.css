@@ -45,7 +45,7 @@ main {
     height: 350px;
 }
 
-h2, #Powers p {
+h2, .text {
     text-align: center;
     font-family: "Times New Roman", Times, serif;
 }
@@ -58,6 +58,7 @@ footer {
     display: block;
     background-color: rgb(255, 0, 0);
     height: 250px;
+    padding: 50px;
 }
 
 footer p {
