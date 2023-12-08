@@ -9,9 +9,11 @@ header {
     height: 150px;
 }
 
-header h1 {
+h1 {
+    display: block;
     text-align: center;
     font-family: "Times New Roman", Times, serif;
+    margin: auto
 }
 
 .Elements {
