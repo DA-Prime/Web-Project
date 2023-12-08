@@ -37,14 +37,14 @@ main {
     height: 1000px;
 }
 
-#Powers {
+#Power {
     display: block;
     background-color: rgb(255, 239, 161);
     border: 3px soild black;
-    margin: 100px auto 50px;
+    margin: 150px auto 150px;
     padding: 50px;
     width: 75%;
-    height: 350px;
+    height: 700px;
 }
 
 h2, .text {
@@ -52,15 +52,11 @@ h2, .text {
     font-family: "Times New Roman", Times, serif;
 }
 
-#Avatar-state {
-    display: block;
-}
-
 footer {
     display: block;
     background-color: rgb(255, 0, 0);
     height: 250px;
-    padding: 50px;
+    padding: 100px;
 }
 
 footer p {
