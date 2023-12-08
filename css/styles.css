@@ -13,7 +13,11 @@ header {
     display: block;
     height: 100px;
     width: 25%;
-    margin: auto auto auto 25px;
+}
+
+.Elements img {
+    height: 90px;
+    width: 20%;
 }
 
 h1 {
