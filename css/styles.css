@@ -47,8 +47,8 @@ main {
     display: block;
     background-color: rgb(255, 239, 161);
     border: 3px soild black;
-    margin: 100px auto 100px;
-    padding: 100px;
+    margin: auto;
+    padding: 125px;
     width: 75%;
     height: 700px;
 }
