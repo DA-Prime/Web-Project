@@ -29,6 +29,7 @@ h1 {
 #description {
     display: block;
     background-color: rgb(163, 242, 255);
+    padding: 25px 50px;
     border: black 1px solid;
 }
 
